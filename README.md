@@ -79,9 +79,12 @@ Type of season effecting the yield
 **USER INTERFACE**
 
 The means by which the User and the computer system interact,in particular the use of input devices and software.
+
 By deploying the code into the Watson Studio in IBM cloud we can generate a scoring uid.
+
 To generate a Flow we use NODE-RED flow editor.
-NODE-RED is a flow based development tool for visual programming developed by IBM for wiring together hardware devices,APIs and Online services.
+
+NODE-RED is a flow based development tool for visual programming developed by IBM for wiring together hardware devices, APIs and Online services.
 
 **CONCLUSION**
 
