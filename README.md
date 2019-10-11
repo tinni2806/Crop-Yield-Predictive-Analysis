@@ -1,4 +1,4 @@
-##### **INTRODUCTION:**
+**INTRODUCTION:**
 
 Agriculture is believed to be as backbone of indian 
 economic system.For the past few decades agriciulture 
@@ -28,7 +28,7 @@ It may lead to increase the yield,especially in main
 
 **SAMPLE OF DATA**
 
-![](https://github.com/tinni2806/Crop-Yield-Predictive-Analysis/blob/master/Snapshots/Capture1.JPG)
+![](https://github.com/tinni2806/Crop-Yield-Predictive-Analysis/blob/master/Snapshots/Capture1.jpg)
 
 **Factors effecting the Crop productivity**
 
@@ -55,21 +55,21 @@ These factors are responsible for change in the Yield of crop so these are calle
 
 **VISUALISATION OF THE DATA**
 
-![](https://github.com/tinni2806/Crop-Yield-Predictive-Analysis/blob/master/Snapshots/Capture2.JPG)
+![](https://github.com/tinni2806/Crop-Yield-Predictive-Analysis/blob/master/Snapshots/Capture2.jpg)
 
 **RELATION BETWEEN INDEPENDENT AND DEPENDENT VARIABLES**
 
 Type of seeds effecting the yield
-![](https://github.com/tinni2806/Crop-Yield-Predictive-Analysis/blob/master/Snapshots/Capture3.JPG)
+![](https://github.com/tinni2806/Crop-Yield-Predictive-Analysis/blob/master/Snapshots/Capture3.jpg)
 
 Type of soil effecting the yield
-![](https://github.com/tinni2806/Crop-Yield-Predictive-Analysis/blob/master/Snapshots/Capture4.JPG)
+![](https://github.com/tinni2806/Crop-Yield-Predictive-Analysis/blob/master/Snapshots/Capture4.jpg)
 
 Type of fertilizer effecting the yield
-![](https://github.com/tinni2806/Crop-Yield-Predictive-Analysis/blob/master/Snapshots/Capture5.JPG)
+![](https://github.com/tinni2806/Crop-Yield-Predictive-Analysis/blob/master/Snapshots/Capture5.jpg)
 
 Type of season effecting the yield
-![](https://github.com/tinni2806/Crop-Yield-Predictive-Analysis/blob/master/Snapshots/Capture6.JPG)
+![](https://github.com/tinni2806/Crop-Yield-Predictive-Analysis/blob/master/Snapshots/Capture6.jpg)
 
 **USER INTERFACE**
 
