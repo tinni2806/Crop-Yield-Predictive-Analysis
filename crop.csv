@@ -1,0 +1,11 @@
+,Place,crop,seed,soil,humidity,airquality,laborcosts,fertilizer,water level,yield
+0,Uttar Pradesh,Paddy,organic,Kharif,Sandy,26,4.8,4000,Urea,24.5,9.83
+1,Karnataka,Paddy,organic,Kharif,Loamy,55,3.1,4500,DAP,45.2,7.47
+2,Gujarat,Paddy,organic,Kharif,Black,6,32.5,15000,DAP,77.3,49.56
+3,Andhra Pradesh,Paddy,hybrid,Whole Year,Red,5,6.3,6000,DAP,41.1,6.42
+4,Maharashtra,Paddy,hybrid,Whole Year,Clayey,14,4.7,5500,Urea,56.2,8.72
+5,Maharashtra,Paddy,organic,Whole Year,Sandy,66,6.4,5000,Urea,29.2,5.45
+6,Punjab,Paddy,hybrid,Whole Year,Red,57,5.4,6500,DAP,35.2,9.65
+7,Andhra Pradesh,Paddy,hybrid,Whole Year,Loamy,45,4.7,6200,Urea,47.2,12.30
+8,Gujarat,Wheat,hybrid,Whole Year,Sandy,50,4.2,9000,DAP,36.4,15.30
+9,Haryana,Wheat,organic,Whole Year,Black,12,30.9,14750,Urea,69.1,29.90
