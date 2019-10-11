@@ -61,18 +61,19 @@ These factors are responsible for change in the Yield of crop so these are calle
 
 Type of seeds effecting the yield
 
-
+![](https://github.com/tinni2806/Crop-Yield-Predictive-Analysis/blob/master/Snapshots/Capture3.jpg)
 
 Type of soil effecting the yield
 
-
+![](https://github.com/tinni2806/Crop-Yield-Predictive-Analysis/blob/master/Snapshots/Capture4.jpg)
 
 Type of fertilizer effecting the yield
 
-
+![](https://github.com/tinni2806/Crop-Yield-Predictive-Analysis/blob/master/Snapshots/Capture5.jpg)
 
 Type of season effecting the yield
 
+![](https://github.com/tinni2806/Crop-Yield-Predictive-Analysis/blob/master/Snapshots/Capture6.jpg)
 
 
 **USER INTERFACE**
