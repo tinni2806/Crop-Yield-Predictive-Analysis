@@ -1,4 +1,4 @@
-,Place,crop,seed,soil,humidity,airquality,laborcosts,fertilizer,water level,yield
+,Place,crop,seed,season,soil,humidity,airquality,laborcosts,fertilizer,water level,yield
 0,Uttar Pradesh,Paddy,organic,Kharif,Sandy,26,4.8,4000,Urea,24.5,9.83
 1,Karnataka,Paddy,organic,Kharif,Loamy,55,3.1,4500,DAP,45.2,7.47
 2,Gujarat,Paddy,organic,Kharif,Black,6,32.5,15000,DAP,77.3,49.56
