@@ -12,9 +12,9 @@ year yield values,understanding the current requirement of environment and explo
 
 The precise crop variety selection,exact type of 
      fertilizers,proper irrigation meet the demand of crops
-     for optimum growth and development
+     for optimum growth and development.
 It may lead to increase the yield,especially in main 
-     areas
+     areas.
 
 **EXPLORATORY DATA ANALYSIS**
 
@@ -48,7 +48,7 @@ These factors are responsible for change in the Yield of crop so these are calle
 1. The first step for any data analysis is importing the libraries which are required for the program.
 2. Then we need to import our data set to the program and split the data set into independent(X-variables) and dependent(Y-variables).
 3. Splitting the data into Train and Test is one of the key step to train the model to gain perfect accuracy.
-4. Choosing the type of model based on the data, here it is a regression model and I choosed Multi-variable linear regression.
+4. Choosing the type of model based on the data, here it is a regression model and I chose Multi-variable linear regression.
 5. Fitting the model with train values predicting the result with test values.
 6. Observing the accuracy between predicted and actual values and based on it deciding the choice of model.
 
