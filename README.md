@@ -1,6 +1,9 @@
 ## **INTRODUCTION:**
 
-Research in precision agriculture concentrates on farming management concept based on observing, measuring and responding to inter and intra-field variability in crops. Crop variability typically has both a spatial and temporal component which makes statistical/computational treatments quite involved. The holy grail of this project has been the ability to define a Decision Support System for farm management in India with the goal of optimizing returns on inputs while preserving resources. Presently, I am developing big data analytic tools to estimate the nutrient status of the plants to improve the efficiency of the fertilizer use.
+Research in precision agriculture concentrates on farming management concept based on observing, measuring and responding to inter and intra-field variability in crops. 
+Crop variability typically has both a spatial and temporal component which makes statistical/computational treatments quite involved. The holy grail of this project has been the ability to define a Decision Support System for farm management in India with the goal of optimizing returns on inputs while preserving resources.
+
+Presently, I am developing big data analytic tools to estimate the nutrient status of the plants to improve the efficiency of the fertilizer use.
 
 **PREDICTIVE ANALYSIS AND ITS BENEFITS :**
 
